@@ -1,0 +1,3 @@
+[submodule "opencv4"]
+	path = opencv4
+	url = https://github.com/bluems/raspbian_opencv4.git
